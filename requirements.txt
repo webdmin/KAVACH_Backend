@@ -1,0 +1,15 @@
+Flask
+PyPDF2
+langchain
+langchain-community
+faiss-cpu
+easyocr
+numpy
+pillow
+pymupdf
+sentence-transformers
+google-generativeai
+python-dotenv
+flask_cors
+termcolor
+gunicorn
